@@ -22,10 +22,14 @@ public class ToDoManager
 
         if (tarea != null)
         {
-            tareasPendientes.Remove(tarea); tareasRealizadas.Add(tarea);
+            tareasPendientes.Remove(tarea);
+            tareasRealizadas.Add(tarea);
             Console.WriteLine($"Tarea ID {id} marcada como realizada.");
         }
-        else { Console.WriteLine("No se encontró una tarea con ese ID."); }
+        else
+        {
+            Console.WriteLine("No se encontró una tarea con ese ID.");
+        }
     }
     public void BuscarPorDescripcion(string texto)
     {

@@ -24,7 +24,7 @@ while (!salir)
             Console.Write("Ingrese la descripción de la tarea: ");
             string desc = Console.ReadLine();
             Console.Write("Ingrese la duración (entre 10 y 100): ");
-            if (int.TryParse(Console.ReadLine(), out int duracion))
+            if (int.TryParse(Console.ReadLine(), out int duracion) && duracion >= 10 && duracion <= 100)
             {
                 manager.AgregarTarea(desc, duracion);
             }
