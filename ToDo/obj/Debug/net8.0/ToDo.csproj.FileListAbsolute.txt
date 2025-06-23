@@ -13,3 +13,18 @@ C:\Users\Alumno\Desktop\c#\tl1-tp8-2025-GastonGutierrezLlomplat\ToDo\obj\Debug\n
 C:\Users\Alumno\Desktop\c#\tl1-tp8-2025-GastonGutierrezLlomplat\ToDo\obj\Debug\net8.0\ToDo.pdb
 C:\Users\Alumno\Desktop\c#\tl1-tp8-2025-GastonGutierrezLlomplat\ToDo\obj\Debug\net8.0\ToDo.genruntimeconfig.cache
 C:\Users\Alumno\Desktop\c#\tl1-tp8-2025-GastonGutierrezLlomplat\ToDo\obj\Debug\net8.0\ref\ToDo.dll
+D:\Facultad Gastón\TALLERDELENGUAJESI\tl1-tp8-2025-GastonGutierrezLlomplat\ToDo\bin\Debug\net8.0\ToDo.exe
+D:\Facultad Gastón\TALLERDELENGUAJESI\tl1-tp8-2025-GastonGutierrezLlomplat\ToDo\bin\Debug\net8.0\ToDo.deps.json
+D:\Facultad Gastón\TALLERDELENGUAJESI\tl1-tp8-2025-GastonGutierrezLlomplat\ToDo\bin\Debug\net8.0\ToDo.runtimeconfig.json
+D:\Facultad Gastón\TALLERDELENGUAJESI\tl1-tp8-2025-GastonGutierrezLlomplat\ToDo\bin\Debug\net8.0\ToDo.dll
+D:\Facultad Gastón\TALLERDELENGUAJESI\tl1-tp8-2025-GastonGutierrezLlomplat\ToDo\bin\Debug\net8.0\ToDo.pdb
+D:\Facultad Gastón\TALLERDELENGUAJESI\tl1-tp8-2025-GastonGutierrezLlomplat\ToDo\obj\Debug\net8.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad Gastón\TALLERDELENGUAJESI\tl1-tp8-2025-GastonGutierrezLlomplat\ToDo\obj\Debug\net8.0\ToDo.AssemblyInfoInputs.cache
+D:\Facultad Gastón\TALLERDELENGUAJESI\tl1-tp8-2025-GastonGutierrezLlomplat\ToDo\obj\Debug\net8.0\ToDo.AssemblyInfo.cs
+D:\Facultad Gastón\TALLERDELENGUAJESI\tl1-tp8-2025-GastonGutierrezLlomplat\ToDo\obj\Debug\net8.0\ToDo.csproj.CoreCompileInputs.cache
+D:\Facultad Gastón\TALLERDELENGUAJESI\tl1-tp8-2025-GastonGutierrezLlomplat\ToDo\obj\Debug\net8.0\ToDo.sourcelink.json
+D:\Facultad Gastón\TALLERDELENGUAJESI\tl1-tp8-2025-GastonGutierrezLlomplat\ToDo\obj\Debug\net8.0\ToDo.dll
+D:\Facultad Gastón\TALLERDELENGUAJESI\tl1-tp8-2025-GastonGutierrezLlomplat\ToDo\obj\Debug\net8.0\refint\ToDo.dll
+D:\Facultad Gastón\TALLERDELENGUAJESI\tl1-tp8-2025-GastonGutierrezLlomplat\ToDo\obj\Debug\net8.0\ToDo.pdb
+D:\Facultad Gastón\TALLERDELENGUAJESI\tl1-tp8-2025-GastonGutierrezLlomplat\ToDo\obj\Debug\net8.0\ToDo.genruntimeconfig.cache
+D:\Facultad Gastón\TALLERDELENGUAJESI\tl1-tp8-2025-GastonGutierrezLlomplat\ToDo\obj\Debug\net8.0\ref\ToDo.dll
